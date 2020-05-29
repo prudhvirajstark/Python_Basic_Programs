@@ -1,0 +1,1 @@
+#9.	Write a function make_dict(key_value_list) that takes a list of tuples key_value_list where each tuple is of the form (key, value) and returns a dictionary with these keys and corresponding values.

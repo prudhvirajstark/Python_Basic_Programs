@@ -1,0 +1,1 @@
+#23.	Python Program to check whether a full pattern (not sub string) is present in the given sentence.

@@ -1,0 +1,1 @@
+#12.	Write a python code to generate grade using dictionary. Dictionary should have student names as keys (assuming names are unique) and subject_name and mark as value. There are 5 subjects for each student. Marks should be converted to grades (90 – 100 A+, 80-89 A etc).

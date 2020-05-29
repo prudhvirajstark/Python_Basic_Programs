@@ -1,0 +1,1 @@
+#11.	Write a function make_cipher_dict(alphabet) that takes a string of unique characters and returns a randomly-generated cipher dictionary for the characters in alphabet . You should use the shuffle() method in the random module to ensure that your returned cipher dictionary is random.

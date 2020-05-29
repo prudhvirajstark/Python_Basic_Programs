@@ -1,0 +1,1 @@
+#24.	Cumulative sum of a list [1, 2, 4, …] is defined as  [1, 3, 7, . . .] Write a function cumulative_sum() to compute cumulative sum of a list
